@@ -1,0 +1,7 @@
+{
+  "name": "Spelling Correction Api",
+  "description": "Simple, reliable and free Spelling Correction Api",
+  "runtime": "python3.9",
+  "env": [
+  ]
+}
